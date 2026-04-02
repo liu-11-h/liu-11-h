@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/liu-11-h/liu-11-h/main/11.png" width="100%"/>
+</div>
 <!--
 **liu-11-h/liu-11-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
