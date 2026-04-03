@@ -27,17 +27,10 @@
 
 <br/>
 
-<!-- 统计卡片 - 稳定版 -->
+<!-- GitHub 统计卡片 - 官方镜像 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liu-11-h&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-11-h&layout=compact&theme=radical&hide_border=true"/>
-</div>
-
-<br/>
-
-<!-- 热力图 - 稳定版 -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=liu-11-h&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-contributions-api.jogruber.de/liu-11-h?format=svg&theme=dark&widget=stats"/>
+  <img height="180em" src="https://github-contributions-api.jogruber.de/liu-11-h?format=svg&theme=dark&widget=top_languages"/>
 </div>
 
 <br/>
