@@ -1,0 +1,38 @@
+name: generate-snake-aurora
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Aurora Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: liu-11-h
+          outputs: |
+            dist/snake-aurora.svg?color_snake=00ffcc,00e5b0,00cca3,00b396&color_dot=ff66cc&color_bg=0d1117&radius=8
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-aurora
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
