@@ -27,17 +27,17 @@
 
 <br/>
 
-<!-- 统计卡片 - 透明高级版 -->
+<!-- 统计卡片 - 稳定版 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liu-11-h&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-11-h&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liu-11-h&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-11-h&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 <br/>
 
-<!-- 热力图 - 连续打卡记录 -->
+<!-- 热力图 - 稳定版 -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=liu-11-h&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=liu-11-h&theme=radical&hide_border=true"/>
 </div>
 
 <br/>
