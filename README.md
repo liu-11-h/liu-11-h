@@ -11,6 +11,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output/github-contribution-grid-snake.svg">
   <img alt="🐍 Snake eating contributions" src="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-# Hi there 👋
