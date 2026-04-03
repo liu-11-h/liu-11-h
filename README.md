@@ -11,24 +11,28 @@
 
 <br/>
 
-<!-- 技术栈图标墙 - 新增！视觉冲击 -->
+<!-- 技术栈图标墙 -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,py,fastapi,postgres,redis,docker,git,githubactions" />
 </div>
 
 <br/>
 
-<!-- 贪吃蛇 -->
+<!-- 终极贪吃蛇 - 霓虹粉红版 🔥 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output/github-contribution-grid-snake.svg">
-  <img alt="🐍 Snake eating contributions" src="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-ultimate/snake-ultimate.svg">
+  <img alt="🔥 Ultimate Neon Snake" src="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-ultimate/snake-ultimate.svg">
 </picture>
 
+<br/>
+
+<!-- 徽章统计 -->
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=58A6FF&label=GitHub+Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fliu-11-h&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/dynamic/json?color=58A6FF&label=Public+Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fliu-11-h&style=for-the-badge"/>
 </div>
+
+<br/>
 
 <!-- 访客计数器 -->
 <div align="center">
