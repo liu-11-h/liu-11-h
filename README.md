@@ -27,17 +27,10 @@
 
 <br/>
 
-<!-- GitHub 统计卡片 - 官方镜像 -->
+<!-- 徽章统计 - 永远能显示 -->
 <div align="center">
-  <img height="180em" src="https://github-contributions-api.jogruber.de/liu-11-h?format=svg&theme=dark&widget=stats"/>
-  <img height="180em" src="https://github-contributions-api.jogruber.de/liu-11-h?format=svg&theme=dark&widget=top_languages"/>
-</div>
-
-<br/>
-
-<!-- 名言卡片 - 保留但放到底部 -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=58A6FF&label=GitHub+Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fliu-11-h&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=58A6FF&label=Public+Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fliu-11-h&style=for-the-badge"/>
 </div>
 
 <br/>
