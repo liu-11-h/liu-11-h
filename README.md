@@ -4,7 +4,7 @@
 
 <br/>
 
-<!-- 动态打字 - 更醒目 -->
+<!-- 动态打字 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+11;Full-stack+Developer;TypeScript+%7C+React+%7C+Python;Building+the+future%2C+one+bug+at+a+time;3%2B+years+of+coding+journey" alt="Typing SVG" />
 </div>
@@ -18,20 +18,10 @@
 
 <br/>
 
-<!-- 终极贪吃蛇 - 霓虹粉红版 🔥 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-ultimate/snake-ultimate.svg">
-  <img alt="🔥 Ultimate Neon Snake" src="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-ultimate/snake-ultimate.svg">
-</picture>
-
+<!-- 极光贪吃蛇 ✨ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-aurora/snake-aurora.svg">
   <img alt="✨ Aurora Snake" src="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-aurora/snake-aurora.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-pro/snake-pro.svg">
-  <img alt="✨ Pro Snake" src="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-pro/snake-pro.svg">
 </picture>
 
 <br/>
