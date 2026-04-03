@@ -25,11 +25,9 @@
   <img alt="🐍 Snake eating contributions" src="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- 徽章统计 - 稳定版 -->
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=58A6FF&label=GitHub+Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fliu-11-h&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/dynamic/json?color=58A6FF&label=Public+Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fliu-11-h&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=58A6FF&label=GitHub+Stars&query=total_stars&url=https%3A%2F%2Fapi.github-star-counter.vercel.app%2Fapi%2Fliu-11-h&style=for-the-badge"/>
 </div>
 
 <!-- 访客计数器 -->
