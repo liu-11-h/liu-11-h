@@ -24,6 +24,11 @@
   <img alt="🔥 Ultimate Neon Snake" src="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-ultimate/snake-ultimate.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-pro/snake-pro.svg">
+  <img alt="✨ Pro Snake" src="https://raw.githubusercontent.com/liu-11-h/liu-11-h/output-pro/snake-pro.svg">
+</picture>
+
 <br/>
 
 <!-- 徽章统计 -->
